@@ -1,4 +1,0 @@
-zone "server.localhost." {
-    type master;
-    file "/etc/bind/zones/server.localhost";
-};
